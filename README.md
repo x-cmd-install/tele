@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Keyboard-first Telegram client for the terminal, written in Go
+Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
 
 [![x-cmd/install — tele Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tele.svg)](https://x-cmd.com/install/tele)
 
@@ -14,11 +14,11 @@ x install tele
 
 ## Code insight
 
-Total: **87,500** lines of code across **738** files in the top 5 languages.
+Total: **87,597** lines of code across **738** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 85,780 | 16,213 | 13,570 | 702 |
+| Go | 85,877 | 16,214 | 13,578 | 702 |
 | Sh | 989 | 314 | 179 | 24 |
 | Yaml | 635 | 273 | 96 | 10 |
 | Nix | 61 | 14 | 13 | 1 |
@@ -33,27 +33,27 @@ Total: **87,500** lines of code across **738** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.2` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 41
 
 ## Popularity
 
-- **Stars**: 228 · **Forks**: 32 · **Open issues**: 304 · **Contributors**: 9
+- **Stars**: 228 · **Forks**: 32 · **Open issues**: 307 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 122 · **Merged PRs**: 10 · **Open PRs**: 5 · **Closed issues**: 226 · **Open issues**: 78 · **Commits**: 646
+- **Releases**: 122 · **Merged PRs**: 11 · **Open PRs**: 3 · **Closed issues**: 231 · **Open issues**: 76 · **Commits**: 655
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 21 | 3 | 5 | 9 | 13 | 164 |
-| last60d | 2026-08-28 | 27 | 4 | 5 | 36 | 23 | 234 |
-| 90d | 2026-07-29 | 41 | 6 | 5 | 67 | 36 | 292 |
-| last180d | 2026-04-30 | 100 | 9 | 5 | 226 | 78 | 646 |
-| 360d | 2025-11-01 | 100 | 9 | 5 | 226 | 78 | 646 |
-| last720d | 2024-11-06 | 100 | 9 | 5 | 226 | 78 | 646 |
+| 30d | 2026-09-28 | 21 | 4 | 3 | 10 | 15 | 173 |
+| last60d | 2026-08-29 | 27 | 5 | 3 | 38 | 24 | 243 |
+| 90d | 2026-07-30 | 40 | 7 | 3 | 70 | 36 | 301 |
+| last180d | 2026-05-01 | 100 | 10 | 3 | 231 | 76 | 655 |
+| 360d | 2025-11-02 | 100 | 10 | 3 | 231 | 76 | 655 |
+| last720d | 2024-11-07 | 100 | 10 | 3 | 231 | 76 | 655 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for tele lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:14:21Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T07:02:17Z._

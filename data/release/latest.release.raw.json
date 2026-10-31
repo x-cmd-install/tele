@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9998643,
       "digest": "sha256:9cb9317dff289ec0924e1cb8ce498ff81e46b1847136d775e80060cb91c6bb7e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:35:06Z",
       "updated_at": "2026-10-26T15:35:07Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-2.0.2-1.aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10905183,
       "digest": "sha256:4726dd91dfe03bf8f555373f12feb56830278622b9f256bd5786644f573f3ce7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-26T15:35:04Z",
       "updated_at": "2026-10-26T15:35:05Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-2.0.2-1.x86_64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 29330338,
       "digest": "sha256:daf0acfe0b5fd2683de414bb24c50aaaca4633532a2021066651dc87d799992a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-26T15:34:47Z",
       "updated_at": "2026-10-26T15:34:48Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 30253218,
       "digest": "sha256:f5d13ef15ab94914475561037899028838b34ad2676245599ad05661b2739c63",
-      "download_count": 21,
+      "download_count": 33,
       "created_at": "2026-10-26T15:34:49Z",
       "updated_at": "2026-10-26T15:34:51Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 28704930,
       "digest": "sha256:cb30b87356ebc1f4124df1dcc09df7779ad52a4d0bba189ef0064d93392dec26",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-26T15:34:32Z",
       "updated_at": "2026-10-26T15:34:34Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-linux-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 60311552,
       "digest": "sha256:71834efb0b7d2d9cbc47180a770d7c5b6c8d924adb9a6564b9ad52ef308b2501",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:34:51Z",
       "updated_at": "2026-10-26T15:34:54Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-windows-amd64.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 56629248,
       "digest": "sha256:247869dd06d78f5756aed3406d210f26d9e43588d7ac3a4d68aa88522e1ef20d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:34:55Z",
       "updated_at": "2026-10-26T15:34:58Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele-windows-arm64.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 10587142,
       "digest": "sha256:87a1c2976d03f31f32a6cd4662bf2f2b2c626855561e4625b8b4e2fc5fae13c7",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-26T15:35:00Z",
       "updated_at": "2026-10-26T15:35:01Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_2.0.2_amd64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 9704424,
       "digest": "sha256:7e5d659f0daaa01ffcd4cc0501060db7ada3aef7d1182637502d2772f395cb93",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:35:02Z",
       "updated_at": "2026-10-26T15:35:03Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_2.0.2_arm64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 10677415,
       "digest": "sha256:e7fa5cb67da6fd6c2094a8f2337fd0d35e6c5d539ca07f2de8621f75c4e7acbe",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-26T15:34:23Z",
       "updated_at": "2026-10-26T15:34:24Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_darwin_amd64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 10047590,
       "digest": "sha256:0ea46d83e751bf41a15e59354882347a762848596cd25f8f59ff804616ac92ca",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-10-26T15:34:25Z",
       "updated_at": "2026-10-26T15:34:26Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_darwin_arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 10379399,
       "digest": "sha256:60d397c86d86d5ed530a5920f8e0225166b3c8736a5dd23f5309ae25e78a89ff",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:34:20Z",
       "updated_at": "2026-10-26T15:34:21Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_freebsd_amd64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 9503091,
       "digest": "sha256:3bea91fba60a0a321098980b01b613764fcae55e7e22694050600969772bfba2",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:34:27Z",
       "updated_at": "2026-10-26T15:34:28Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_freebsd_arm64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 10594114,
       "digest": "sha256:7395ebd130858d48e0bb709717d80b2db6906dae4c76689d6f6955e178d0f73f",
-      "download_count": 13,
+      "download_count": 18,
       "created_at": "2026-10-26T15:34:12Z",
       "updated_at": "2026-10-26T15:34:13Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_linux_amd64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 9712526,
       "digest": "sha256:ee297874fd831882279392adca79101775816fb1509d2528867110f23667ab3a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:34:14Z",
       "updated_at": "2026-10-26T15:34:15Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_linux_arm64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 18649873,
       "digest": "sha256:771d92bb4e94cd5e4f19b1581035a06983b9e9b1b4adb00f323921be34228b58",
-      "download_count": 37,
+      "download_count": 46,
       "created_at": "2026-10-26T15:34:16Z",
       "updated_at": "2026-10-26T15:34:18Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_windows_amd64.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 16751751,
       "digest": "sha256:4293fbc217da95e3bfbca43ff8b70f87978b4bb488a04cf6e04655426e765d1d",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-10-26T15:34:18Z",
       "updated_at": "2026-10-26T15:34:20Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.0.2/tele_windows_arm64.zip"

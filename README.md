@@ -38,22 +38,22 @@ Total: **89,131** lines of code across **751** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 237 · **Forks**: 31 · **Open issues**: 314 · **Contributors**: 9
+- **Stars**: 239 · **Forks**: 31 · **Open issues**: 314 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 124 · **Merged PRs**: 11 · **Open PRs**: 4 · **Closed issues**: 234 · **Open issues**: 80 · **Commits**: 672
+- **Releases**: 124 · **Merged PRs**: 11 · **Open PRs**: 6 · **Closed issues**: 234 · **Open issues**: 80 · **Commits**: 672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 20 | 3 | 3 | 10 | 15 | 152 |
-| last60d | 2026-09-06 | 29 | 5 | 4 | 39 | 28 | 249 |
-| 90d | 2026-08-07 | 33 | 7 | 4 | 62 | 40 | 294 |
-| last180d | 2026-05-09 | 100 | 10 | 4 | 234 | 80 | 668 |
-| 360d | 2025-11-10 | 100 | 10 | 4 | 234 | 80 | 672 |
-| last720d | 2024-11-15 | 100 | 10 | 4 | 234 | 80 | 672 |
+| 30d | 2026-10-07 | 19 | 3 | 5 | 10 | 15 | 152 |
+| last60d | 2026-09-07 | 29 | 5 | 6 | 36 | 27 | 249 |
+| 90d | 2026-08-08 | 33 | 7 | 6 | 62 | 39 | 294 |
+| last180d | 2026-05-10 | 100 | 10 | 6 | 234 | 80 | 668 |
+| 360d | 2025-11-11 | 100 | 10 | 6 | 234 | 80 | 672 |
+| last720d | 2024-11-16 | 100 | 10 | 6 | 234 | 80 | 672 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for tele lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:04:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:11:33Z._

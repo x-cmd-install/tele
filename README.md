@@ -14,11 +14,11 @@ x install tele
 
 ## Code insight
 
-Total: **90,161** lines of code across **754** files in the top 5 languages.
+Total: **90,280** lines of code across **754** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 88,441 | 16,738 | 13,959 | 718 |
+| Go | 88,560 | 16,767 | 13,975 | 718 |
 | Sh | 989 | 314 | 179 | 24 |
 | Yaml | 635 | 273 | 96 | 10 |
 | Nix | 61 | 14 | 13 | 1 |
@@ -33,7 +33,7 @@ Total: **90,161** lines of code across **754** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.2` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 41
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **90,161** lines of code across **754** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 11 · **Open PRs**: 8 · **Closed issues**: 236 · **Open issues**: 80 · **Commits**: 681
+- **Releases**: 125 · **Merged PRs**: 12 · **Open PRs**: 7 · **Closed issues**: 237 · **Open issues**: 79 · **Commits**: 687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 20 | 3 | 7 | 12 | 15 | 161 |
-| last60d | 2026-09-08 | 30 | 5 | 8 | 35 | 27 | 258 |
-| 90d | 2026-08-09 | 33 | 7 | 8 | 64 | 39 | 303 |
-| last180d | 2026-05-11 | 100 | 10 | 8 | 236 | 80 | 677 |
-| 360d | 2025-11-12 | 100 | 10 | 8 | 236 | 80 | 681 |
-| last720d | 2024-11-17 | 100 | 10 | 8 | 236 | 80 | 681 |
+| 30d | 2026-10-09 | 20 | 3 | 6 | 11 | 15 | 143 |
+| last60d | 2026-09-09 | 29 | 6 | 7 | 34 | 26 | 244 |
+| 90d | 2026-08-10 | 33 | 8 | 7 | 59 | 36 | 295 |
+| last180d | 2026-05-12 | 100 | 11 | 7 | 237 | 79 | 638 |
+| 360d | 2025-11-13 | 100 | 11 | 7 | 237 | 79 | 687 |
+| last720d | 2024-11-18 | 100 | 11 | 7 | 237 | 79 | 687 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for tele lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:13:09Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:12:34Z._

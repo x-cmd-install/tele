@@ -14,11 +14,11 @@ x install tele
 
 ## Code insight
 
-Total: **91,371** lines of code across **763** files in the top 5 languages.
+Total: **93,623** lines of code across **771** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 89,642 | 16,959 | 14,160 | 727 |
+| Go | 91,894 | 17,452 | 14,543 | 735 |
 | Sh | 989 | 314 | 179 | 24 |
 | Yaml | 637 | 273 | 96 | 10 |
 | Nix | 63 | 17 | 13 | 1 |
@@ -42,18 +42,18 @@ Total: **91,371** lines of code across **763** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 12 · **Open PRs**: 8 · **Closed issues**: 240 · **Open issues**: 86 · **Commits**: 711
+- **Releases**: 125 · **Merged PRs**: 12 · **Open PRs**: 8 · **Closed issues**: 241 · **Open issues**: 85 · **Commits**: 724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 17 | 2 | 7 | 8 | 23 | 167 |
-| last60d | 2026-09-13 | 27 | 6 | 8 | 31 | 34 | 268 |
-| 90d | 2026-08-14 | 32 | 8 | 8 | 52 | 42 | 319 |
-| last180d | 2026-05-16 | 100 | 11 | 8 | 240 | 86 | 662 |
-| 360d | 2025-11-17 | 100 | 11 | 8 | 240 | 86 | 711 |
-| last720d | 2024-11-22 | 100 | 11 | 8 | 240 | 86 | 711 |
+| 30d | 2026-10-14 | 15 | 2 | 7 | 9 | 21 | 0 |
+| last60d | 2026-09-14 | 27 | 6 | 8 | 32 | 33 | 0 |
+| 90d | 2026-08-15 | 32 | 8 | 8 | 53 | 41 | 0 |
+| last180d | 2026-05-17 | 100 | 11 | 8 | 241 | 85 | 0 |
+| 360d | 2025-11-18 | 100 | 11 | 8 | 241 | 85 | 0 |
+| last720d | 2024-11-23 | 100 | 11 | 8 | 241 | 85 | 724 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for tele lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:14:07Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:26:29Z._

@@ -14,11 +14,11 @@ x install tele
 
 ## 代码洞察
 
-合计: **93,623** 行代码（覆盖前 5 种语言、共 **771** 个文件）。
+合计: **95,208** 行代码（覆盖前 5 种语言、共 **778** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 91,894 | 17,452 | 14,543 | 735 |
+| Go | 93,479 | 17,749 | 14,782 | 742 |
 | Sh | 989 | 314 | 179 | 24 |
 | Yaml | 637 | 273 | 96 | 10 |
 | Nix | 63 | 17 | 13 | 1 |
@@ -32,74 +32,74 @@ x install tele
 
 ## 发布
 
-- **最新版本**: `v2.1.2` (2026-11-06)
-- **最近提交**: 2026-11-12
+- **最新版本**: `v2.1.3` (2026-11-13)
+- **最近提交**: 2026-11-13
 - **Release 含资产**: 41 个
 
 ## 流行度
 
-- **Star**: 245 · **Fork**: 32 · **开放 issue**: 326 · **贡献者**: 9
+- **Star**: 246 · **Fork**: 32 · **开放 issue**: 330 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 125 · **已合并 PR**: 12 · **开放 PR**: 8 · **已关闭 issue**: 241 · **开放 issue**: 85 · **提交数**: 724
+- **发布数**: 126 · **已合并 PR**: 12 · **开放 PR**: 8 · **已关闭 issue**: 241 · **开放 issue**: 89 · **提交数**: 737
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 15 | 2 | 7 | 9 | 21 | 0 |
-| last60d | 2026-09-14 | 27 | 6 | 8 | 32 | 33 | 0 |
-| 90d | 2026-08-15 | 32 | 8 | 8 | 53 | 41 | 0 |
-| last180d | 2026-05-17 | 100 | 11 | 8 | 241 | 85 | 0 |
-| 360d | 2025-11-18 | 100 | 11 | 8 | 241 | 85 | 0 |
-| last720d | 2024-11-23 | 100 | 11 | 8 | 241 | 85 | 724 |
+| 30d | 2026-10-15 | 15 | 2 | 7 | 9 | 24 | 193 |
+| last60d | 2026-09-15 | 28 | 6 | 8 | 29 | 37 | 294 |
+| 90d | 2026-08-16 | 33 | 8 | 8 | 53 | 45 | 345 |
+| last180d | 2026-05-18 | 100 | 11 | 8 | 208 | 82 | 688 |
+| 360d | 2025-11-19 | 100 | 11 | 8 | 241 | 89 | 737 |
+| last720d | 2024-11-24 | 100 | 11 | 8 | 241 | 89 | 737 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/checksums.txt) | 3.5 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/checksums.txt.sigstore.json) | 10.2 KiB | `other` |
-| [tele-2.1.2-1.aarch64.rpm](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-2.1.2-1.aarch64.rpm) | 9.6 MiB | `runtime/rpm/aarch64` |
-| [tele-2.1.2-1.x86_64.rpm](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-2.1.2-1.x86_64.rpm) | 10.5 MiB | `runtime/rpm/x86_64` |
-| [tele-darwin-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-darwin-amd64) | 29.5 MiB | `native/darwin/x64` |
-| [tele-darwin-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-darwin-arm64) | 28.2 MiB | `native/darwin/arm64` |
-| [tele-freebsd-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-freebsd-amd64) | 28.6 MiB | `other` |
-| [tele-freebsd-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-freebsd-arm64) | 27.1 MiB | `other` |
-| [tele-linux-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-linux-amd64) | 29.1 MiB | `native/linux/x64` |
-| [tele-linux-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-linux-arm64) | 27.6 MiB | `native/linux/arm64` |
-| [tele-netbsd-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-netbsd-amd64) | 28.9 MiB | `other` |
-| [tele-openbsd-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-openbsd-amd64) | 28.9 MiB | `other` |
-| [tele-openbsd-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-openbsd-arm64) | 27.4 MiB | `other` |
-| [tele-windows-amd64.exe](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-windows-amd64.exe) | 57.7 MiB | `native/win/x64` |
-| [tele-windows-arm64.exe](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele-windows-arm64.exe) | 54.1 MiB | `native/win/arm64` |
-| [tele_2.1.2_aarch64.apk](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_2.1.2_aarch64.apk) | 9.7 MiB | `other` |
-| [tele_2.1.2_amd64.deb](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_2.1.2_amd64.deb) | 10.2 MiB | `runtime/deb/amd64` |
-| [tele_2.1.2_arm64.deb](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_2.1.2_arm64.deb) | 9.3 MiB | `runtime/deb/arm64` |
-| [tele_2.1.2_x86_64.apk](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_2.1.2_x86_64.apk) | 10.6 MiB | `other` |
-| [tele_darwin_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_darwin_amd64.tar.gz) | 10.2 MiB | `native/darwin/x64` |
-| [tele_darwin_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_darwin_amd64.tar.gz.sbom.json) | 118.1 KiB | `native/darwin/x64` |
-| [tele_darwin_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_darwin_arm64.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
-| [tele_darwin_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_darwin_arm64.tar.gz.sbom.json) | 118.1 KiB | `native/darwin/arm64` |
-| [tele_freebsd_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_freebsd_amd64.tar.gz) | 9.9 MiB | `native/linux/x64` |
-| [tele_freebsd_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_freebsd_amd64.tar.gz.sbom.json) | 113.8 KiB | `other` |
-| [tele_freebsd_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_freebsd_arm64.tar.gz) | 9.1 MiB | `native/linux/arm64` |
-| [tele_freebsd_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_freebsd_arm64.tar.gz.sbom.json) | 113.8 KiB | `other` |
-| [tele_linux_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_linux_amd64.tar.gz) | 10.1 MiB | `native/linux/x64` |
-| [tele_linux_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_linux_amd64.tar.gz.sbom.json) | 114.8 KiB | `native/linux/x64` |
-| [tele_linux_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_linux_arm64.tar.gz) | 9.3 MiB | `native/linux/arm64` |
-| [tele_linux_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_linux_arm64.tar.gz.sbom.json) | 114.8 KiB | `native/linux/arm64` |
-| [tele_netbsd_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_netbsd_amd64.tar.gz) | 10.1 MiB | `native/linux/x64` |
-| [tele_netbsd_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_netbsd_amd64.tar.gz.sbom.json) | 118.1 KiB | `other` |
-| [tele_openbsd_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_openbsd_amd64.tar.gz) | 10.1 MiB | `native/linux/x64` |
-| [tele_openbsd_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_openbsd_amd64.tar.gz.sbom.json) | 118.1 KiB | `other` |
-| [tele_openbsd_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_openbsd_arm64.tar.gz) | 9.2 MiB | `native/linux/arm64` |
-| [tele_openbsd_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_openbsd_arm64.tar.gz.sbom.json) | 118.1 KiB | `other` |
-| [tele_windows_amd64.zip](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_windows_amd64.zip) | 17.8 MiB | `native/win/x64` |
-| [tele_windows_amd64.zip.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_windows_amd64.zip.sbom.json) | 123.9 KiB | `native/win/x64` |
-| [tele_windows_arm64.zip](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_windows_arm64.zip) | 16.0 MiB | `native/win/arm64` |
-| [tele_windows_arm64.zip.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_windows_arm64.zip.sbom.json) | 123.9 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/checksums.txt) | 3.5 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
+| [tele-2.1.3-1.aarch64.rpm](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-2.1.3-1.aarch64.rpm) | 9.7 MiB | `runtime/rpm/aarch64` |
+| [tele-2.1.3-1.x86_64.rpm](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-2.1.3-1.x86_64.rpm) | 10.6 MiB | `runtime/rpm/x86_64` |
+| [tele-darwin-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-darwin-amd64) | 29.9 MiB | `native/darwin/x64` |
+| [tele-darwin-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-darwin-arm64) | 28.6 MiB | `native/darwin/arm64` |
+| [tele-freebsd-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-freebsd-amd64) | 29.0 MiB | `other` |
+| [tele-freebsd-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-freebsd-arm64) | 27.5 MiB | `other` |
+| [tele-linux-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-linux-amd64) | 29.5 MiB | `native/linux/x64` |
+| [tele-linux-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-linux-arm64) | 28.0 MiB | `native/linux/arm64` |
+| [tele-netbsd-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-netbsd-amd64) | 29.3 MiB | `other` |
+| [tele-openbsd-amd64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-openbsd-amd64) | 29.4 MiB | `other` |
+| [tele-openbsd-arm64](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-openbsd-arm64) | 27.8 MiB | `other` |
+| [tele-windows-amd64.exe](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-windows-amd64.exe) | 58.0 MiB | `native/win/x64` |
+| [tele-windows-arm64.exe](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-windows-arm64.exe) | 54.4 MiB | `native/win/arm64` |
+| [tele_2.1.3_aarch64.apk](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_2.1.3_aarch64.apk) | 9.8 MiB | `other` |
+| [tele_2.1.3_amd64.deb](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_2.1.3_amd64.deb) | 10.3 MiB | `runtime/deb/amd64` |
+| [tele_2.1.3_arm64.deb](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_2.1.3_arm64.deb) | 9.4 MiB | `runtime/deb/arm64` |
+| [tele_2.1.3_x86_64.apk](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_2.1.3_x86_64.apk) | 10.7 MiB | `other` |
+| [tele_darwin_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_darwin_amd64.tar.gz) | 10.4 MiB | `native/darwin/x64` |
+| [tele_darwin_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_darwin_amd64.tar.gz.sbom.json) | 118.1 KiB | `native/darwin/x64` |
+| [tele_darwin_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_darwin_arm64.tar.gz) | 9.7 MiB | `native/darwin/arm64` |
+| [tele_darwin_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_darwin_arm64.tar.gz.sbom.json) | 118.1 KiB | `native/darwin/arm64` |
+| [tele_freebsd_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_freebsd_amd64.tar.gz) | 10.1 MiB | `native/linux/x64` |
+| [tele_freebsd_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_freebsd_amd64.tar.gz.sbom.json) | 113.8 KiB | `other` |
+| [tele_freebsd_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_freebsd_arm64.tar.gz) | 9.2 MiB | `native/linux/arm64` |
+| [tele_freebsd_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_freebsd_arm64.tar.gz.sbom.json) | 113.8 KiB | `other` |
+| [tele_linux_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_linux_amd64.tar.gz) | 10.3 MiB | `native/linux/x64` |
+| [tele_linux_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_linux_amd64.tar.gz.sbom.json) | 114.9 KiB | `native/linux/x64` |
+| [tele_linux_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_linux_arm64.tar.gz) | 9.4 MiB | `native/linux/arm64` |
+| [tele_linux_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_linux_arm64.tar.gz.sbom.json) | 114.9 KiB | `native/linux/arm64` |
+| [tele_netbsd_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_netbsd_amd64.tar.gz) | 10.2 MiB | `native/linux/x64` |
+| [tele_netbsd_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_netbsd_amd64.tar.gz.sbom.json) | 118.1 KiB | `other` |
+| [tele_openbsd_amd64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_openbsd_amd64.tar.gz) | 10.2 MiB | `native/linux/x64` |
+| [tele_openbsd_amd64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_openbsd_amd64.tar.gz.sbom.json) | 118.1 KiB | `other` |
+| [tele_openbsd_arm64.tar.gz](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_openbsd_arm64.tar.gz) | 9.4 MiB | `native/linux/arm64` |
+| [tele_openbsd_arm64.tar.gz.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_openbsd_arm64.tar.gz.sbom.json) | 118.1 KiB | `other` |
+| [tele_windows_amd64.zip](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_amd64.zip) | 17.9 MiB | `native/win/x64` |
+| [tele_windows_amd64.zip.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_amd64.zip.sbom.json) | 123.9 KiB | `native/win/x64` |
+| [tele_windows_arm64.zip](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_arm64.zip) | 16.1 MiB | `native/win/arm64` |
+| [tele_windows_arm64.zip.sbom.json](https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_arm64.zip.sbom.json) | 123.9 KiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -110,4 +110,4 @@ tele 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T08:26:29Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T08:12:05Z._

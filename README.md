@@ -33,27 +33,27 @@ Total: **95,208** lines of code across **778** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.3` (2026-11-13)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-18
 - **Assets in release**: 41
 
 ## Popularity
 
-- **Stars**: 252 · **Forks**: 33 · **Open issues**: 335 · **Contributors**: 9
+- **Stars**: 256 · **Forks**: 35 · **Open issues**: 343 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 12 · **Open PRs**: 9 · **Closed issues**: 241 · **Open issues**: 94 · **Commits**: 737
+- **Releases**: 126 · **Merged PRs**: 12 · **Open PRs**: 12 · **Closed issues**: 241 · **Open issues**: 102 · **Commits**: 738
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 14 | 2 | 8 | 8 | 28 | 141 |
-| last60d | 2026-09-18 | 26 | 6 | 9 | 26 | 41 | 271 |
-| 90d | 2026-08-19 | 33 | 8 | 9 | 51 | 47 | 326 |
-| last180d | 2026-05-21 | 100 | 11 | 9 | 193 | 83 | 668 |
-| 360d | 2025-11-22 | 100 | 11 | 9 | 241 | 94 | 737 |
-| last720d | 2024-11-27 | 100 | 11 | 9 | 241 | 94 | 737 |
+| 30d | 2026-10-20 | 12 | 2 | 11 | 7 | 35 | 142 |
+| last60d | 2026-09-20 | 26 | 5 | 12 | 24 | 49 | 272 |
+| 90d | 2026-08-21 | 32 | 7 | 12 | 48 | 52 | 327 |
+| last180d | 2026-05-23 | 98 | 11 | 12 | 193 | 91 | 669 |
+| 360d | 2025-11-24 | 100 | 11 | 12 | 241 | 102 | 738 |
+| last720d | 2024-11-29 | 100 | 11 | 12 | 241 | 102 | 738 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for tele lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:49:15Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:08:39Z._

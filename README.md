@@ -14,11 +14,11 @@ x install tele
 
 ## Code insight
 
-Total: **94,651** lines of code across **770** files in the top 5 languages.
+Total: **96,840** lines of code across **775** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 92,884 | 17,594 | 14,649 | 733 |
+| Go | 95,073 | 17,866 | 14,829 | 738 |
 | Sh | 1,017 | 328 | 185 | 25 |
 | Yaml | 637 | 273 | 96 | 10 |
 | Nix | 63 | 18 | 13 | 1 |
@@ -33,27 +33,27 @@ Total: **94,651** lines of code across **770** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.4-beta.1` (2026-11-13)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-22
 - **Assets in release**: 41
 
 ## Popularity
 
-- **Stars**: 257 · **Forks**: 37 · **Open issues**: 350 · **Contributors**: 10
+- **Stars**: 257 · **Forks**: 37 · **Open issues**: 350 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 13 · **Open PRs**: 15 · **Closed issues**: 243 · **Open issues**: 107 · **Commits**: 753
+- **Releases**: 127 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 244 · **Open issues**: 106 · **Commits**: 756
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 10 | 1 | 14 | 9 | 39 | 95 |
-| last60d | 2026-09-23 | 27 | 6 | 15 | 21 | 50 | 271 |
-| 90d | 2026-08-24 | 32 | 8 | 15 | 50 | 57 | 341 |
-| last180d | 2026-05-26 | 99 | 12 | 15 | 195 | 96 | 682 |
-| 360d | 2025-11-27 | 100 | 12 | 15 | 243 | 107 | 753 |
-| last720d | 2024-12-02 | 100 | 12 | 15 | 243 | 107 | 753 |
+| 30d | 2026-10-24 | 6 | 2 | 13 | 10 | 38 | 97 |
+| last60d | 2026-09-24 | 26 | 8 | 13 | 21 | 48 | 273 |
+| 90d | 2026-08-25 | 32 | 10 | 13 | 51 | 56 | 343 |
+| last180d | 2026-05-27 | 99 | 14 | 13 | 196 | 95 | 684 |
+| 360d | 2025-11-28 | 100 | 14 | 13 | 244 | 106 | 755 |
+| last720d | 2024-12-03 | 100 | 14 | 13 | 244 | 106 | 756 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for tele lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:38:36Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T11:19:43Z._

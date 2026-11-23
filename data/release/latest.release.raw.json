@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3576,
       "digest": "sha256:2c18ef738957d97760ea17e35e99d7f8c93ffbeae6c855815880f8f5f832c34e",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-13T16:36:52Z",
       "updated_at": "2026-11-13T16:36:53Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 29970786,
       "digest": "sha256:51ccb1838a9db841aeee6b611a76dbf9d29234a565ee1d017c1dd84d41b90ceb",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-13T16:36:26Z",
       "updated_at": "2026-11-13T16:36:28Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 30937250,
       "digest": "sha256:17938b30b051e24c291daeef7a1f242823a010a71c121c8c9c66ac984a32ab28",
-      "download_count": 67,
+      "download_count": 78,
       "created_at": "2026-11-13T16:36:28Z",
       "updated_at": "2026-11-13T16:36:29Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 29360290,
       "digest": "sha256:2f36cec2b7e31ec74d0b698c85ffe894e1b1642d2733f8f11491a915574d9776",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-13T16:36:30Z",
       "updated_at": "2026-11-13T16:36:31Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele-linux-arm64"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 10774217,
       "digest": "sha256:289fc41ae2ea384b9ddda778858b907b3f20bd610f9864e3fd81a868e0e53d37",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-11-13T16:36:06Z",
       "updated_at": "2026-11-13T16:36:07Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_linux_amd64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 18792330,
       "digest": "sha256:3bb4b9d403e8b77112a79dc8aab5488f12d504e677114c129362c4ca4ef39b14",
-      "download_count": 237,
+      "download_count": 246,
       "created_at": "2026-11-13T16:36:12Z",
       "updated_at": "2026-11-13T16:36:13Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_amd64.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 16878339,
       "digest": "sha256:2d0c63df6bb6a1c0512e65851ee269e77e3c57ce460a93fdd6b462173f48e00e",
-      "download_count": 34,
+      "download_count": 36,
       "created_at": "2026-11-13T16:36:14Z",
       "updated_at": "2026-11-13T16:36:15Z",
       "browser_download_url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_arm64.zip"
